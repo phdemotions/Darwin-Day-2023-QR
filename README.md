@@ -39,6 +39,9 @@ Sang, K., Todd, P. M., Goldstone, R. L., & Hills, T. T. (2020). Simple Threshold
 Schwartz, B., Ward, A., Monterosso, J., Lyubomirsky, S., White, K., & Lehman, D. R. (2002). Maximizing versus satisficing: Happiness is a matter of choice. Journal of Personality and Social Psychology, 83, 1178–1197. https://doi.org/10.1037/0022-3514.83.5.1178
 
 
+Simon, H. A. (1956). Rational choice and the structure of the environment. Psychological Review, 63, 129–138. https://doi.org/10.1037/h0042769
+
+
 Vargová, L., Zibrínová, Ľ., & Baník, G. (2020). The way of making choices: Maximizing and satisficing and its relationship to well-being, personality, and self-rumination. Judgment and Decision Making, 15(5), 798–806. https://doi.org/10.1017/S1930297500007932
 
 
